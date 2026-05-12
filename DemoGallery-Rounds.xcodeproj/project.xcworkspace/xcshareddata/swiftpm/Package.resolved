@@ -1,0 +1,15 @@
+{
+  "originHash" : "7dad727a94b7f19cbb068d123ab97388fc05cd28f2742930e962347324a4dad6",
+  "pins" : [
+    {
+      "identity" : "rounds_image_lib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dudinvlad/rounds_image_lib",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7525b8f7d092fbd0c32aa7e4a1532278ecc6ffff"
+      }
+    }
+  ],
+  "version" : 3
+}
